@@ -55,6 +55,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [sw-precache](https://github.com/GoogleChrome/sw-precache/) - Generates a service worker to cache your local App Shell resources.
 - [sw-appcache-behavior](https://github.com/GoogleChrome/sw-helpers/tree/master/projects/sw-appcache-behavior) - A service worker implementation of the behavior defined in a page's App Cache manifest.
 - [sw-offline-google-analytics](https://github.com/GoogleChrome/sw-helpers/tree/master/projects/sw-offline-google-analytics) - A service worker helper library to retry offline Google Analytics requests when a connection is available.
+- [`offline-plugin` for webpack](https://github.com/NekR/offline-plugin) - Brings offline support to your webpack build via ServiceWorker and AppCache, no configuration required
 
 ## Videos
 
